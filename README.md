@@ -22,8 +22,8 @@ A *short* example could be: <br/>
 
 <br/><br/>
 ## Requirements
-&nbsp; python3.x<br/>
-&nbsp; send2trash *(optional)*<br/>
+&nbsp; * python3.x<br/>
+&nbsp; * send2trash *(optional)*<br/>
 
 ## Instructions
 
