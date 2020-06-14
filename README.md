@@ -1,4 +1,4 @@
-# Multimedia Organizer 
+# Multimedia organizer 
 
 <br/><br/>
 &nbsp; &nbsp; &nbsp; **Simple media files organizer based on mime-types.**
@@ -33,7 +33,7 @@ A *short* example could be: <br/>
 **Linux**:  <br/>
 ``` python3.x Multimedia\ Organizer.py /home/user/folder/ ...  ``` 
 <br/>
-Notice that the only changes are the back and forward slashes (our program internally solve it).
+<br/> Notice that the only changes are the back and forward slashes (our program internally solve it).
 <br/>
 ### Errors
 * Possible erros can be generate when we have repeated files on the folder (a double call to the script will delete it).
