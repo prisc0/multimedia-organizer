@@ -32,9 +32,7 @@ A short example could be:
   
 **Linux**:  <br/>
 ``` python3.x Multimedia\ Organizer.py /home/user/folder/ ...  ```
-
-<br/>
-Notice that the only changes is the back and forward slashes (our program internally solve it)
+Notice that the only changes are the back and forward slashes (our program internally solve it).
 
 ### Errors
-&nbsp; Possible erros can be generate when we have repeated files on the folder (a double call to the script will delete it).
+* Possible erros can be generate when we have repeated files on the folder (a double call to the script will delete it).
