@@ -1,8 +1,9 @@
 # Multimedia Organizer 
-&nbsp; **Simple media files organizer based on mime-types.**
 
-![INTRO IMAGE](Source/githubimg.gif)<br/>
-<br/>
+<br/><br/><br/>
+&nbsp; **Simple media files organizer based on mime-types.**
+![INTRO IMAGE](Source/githubimg.gif)
+<br/> <br/>
 
 ## Description
 &nbsp; Multimedia Organizer allow us to organize our multimedia files in a determined folder, the files are sent to the user root folder, ex. on Windows 'C:\\Users\\USER_PATH\\...' and organize in the corresponding folder (Videos, Music, Documents...) .
@@ -13,7 +14,7 @@
 
 A short example could be:
 
-`>>> #` mime ingtegrated module<br/> 
+`>>>` # mime ingtegrated module<br/> 
 `>>>` import mimetypes<br/>
 `>>>` <br/>
 `>>>` mimetypes.guess_type('some_media_file.mp3') <br/>
