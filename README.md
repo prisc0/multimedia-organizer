@@ -27,7 +27,7 @@ A *short* example could be: <br/>
 
 ## Instructions
 
-**Windowsc*: <br/> 
+**Windows**: <br/> 
 ``` python3.x "Multimedia Organizer.py" 'C:\\Users\\USER_PATH\\some_folder\\ ... ```
   
 **Linux**:  <br/>
