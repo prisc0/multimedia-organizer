@@ -23,7 +23,7 @@ A short example could be: <br/>
 <br/><br/>
 ## Requirements
 &nbsp; python3.x<br/>
-&nbsp; send2trash (optional)<br/>
+&nbsp; send2trash *(optional)*<br/>
 
 ## Instructions
 
@@ -31,9 +31,9 @@ A short example could be: <br/>
 ``` python3.x "Multimedia Organizer.py" 'C:\\Users\\USER_PATH\\some_folder\\ ... ```
   
 **Linux**:  <br/>
-``` python3.x Multimedia\ Organizer.py /home/user/folder/ ...  ```
+``` python3.x Multimedia\ Organizer.py /home/user/folder/ ...  ``` 
+<br/>
 Notice that the only changes are the back and forward slashes (our program internally solve it).
 <br/>
-
 ### Errors
 * Possible erros can be generate when we have repeated files on the folder (a double call to the script will delete it).
