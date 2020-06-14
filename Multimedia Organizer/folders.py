@@ -1,8 +1,3 @@
-
-
-
-
-
 # os module
 import os 
 
