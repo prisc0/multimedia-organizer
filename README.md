@@ -22,12 +22,12 @@ A *short* example could be: <br/>
 
 <br/><br/>
 ## Requirements
-&nbsp; * python3.x<br/>
-&nbsp; * send2trash *(optional)*<br/>
+* python3.x<br/>
+* send2trash *(optional)*<br/>
 
 ## Instructions
 
-**Windows**: <br/> 
+**Windowsc*: <br/> 
 ``` python3.x "Multimedia Organizer.py" 'C:\\Users\\USER_PATH\\some_folder\\ ... ```
   
 **Linux**:  <br/>
