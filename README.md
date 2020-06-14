@@ -1,11 +1,11 @@
-# Multimedia organizer 
-&nbsp; Simple media files organizer based on mime-types.
+# Multimedia Organizer 
+&nbsp; **Simple media files organizer based on mime-types.**
+
+![INTRO IMAGE](Source/githubimg.gif)<br/>
+<br/>
 
 ## Description
-
 &nbsp; Multimedia Organizer allow us to organize our multimedia files in a determined folder, the files are sent to the user root folder, ex. on Windows 'C:\\Users\\USER_PATH\\...' and organize in the corresponding folder (Videos, Music, Documents...) .
-
-![INTRO IMAGE](Multimedia Organizer/githubimg.gif)<br/>
 
 
 ## Common issues
@@ -13,24 +13,26 @@
 
 A short example could be:
 
->>> import mimetypes
->>>
->>> mimetypes.guess_type('some_media_file.mp3')
->>> ('audio/mpeg', None)
+`>>> #` mime ingtegrated module<br/> 
+`>>>` import mimetypes<br/>
+`>>>` <br/>
+`>>>` mimetypes.guess_type('some_media_file.mp3') <br/>
+`>>>` ('audio/mpeg', None)<br/>
 
-# Requirements
-&nbsp; python3.x
-&nbsp; send2trash (optional)
+## Requirements
+&nbsp; python3.x<br/>
+&nbsp; send2trash (optional)<br/>
 
-# Instructions
+## Instructions
 
-Windows
-python3.x Multimedia Organizer.py 'C:\\Users\\USER_PATH\\some_folder\\..files..
+**Windows**: <br/> 
+<addr> python3.x Multimedia Organizer.py 'C:\\Users\\USER_PATH\\some_folder\\ ...
+  
+**Linux**:  <br/>
+<addr> python3.x Multimedia Organizer.py /home/user/folder/ ... 
 
-Linux
-python3.x Multimedia Organizer.py /home/user/folder/..files..
-
+<br/>
 Notice that the only changes is the back and forward slashes (our program internally solve it)
 
-# Errors
+### Errors
 &nbsp; Possible erros can be generate when we have repeated files on the folder (a double call to the script will delete it).
