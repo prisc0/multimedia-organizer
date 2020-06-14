@@ -1,7 +1,7 @@
 # Multimedia Organizer 
 
 <br/><br/>
-&nbsp; &nbsp; **Simple media files organizer based on mime-types.**
+&nbsp; &nbsp; &nbsp; **Simple media files organizer based on mime-types.**
 ![INTRO IMAGE](Source/githubimg.gif)
 <br/> 
 <br/>
@@ -13,7 +13,7 @@
 ## Common issues
 &nbsp; In this project, one of the common issues is the recognition of the file extension/type and here is where mime-type get in action, instead of use a large pattern in a dictionary or another third-party library to help for to get the file format.   
 
-A short example could be: <br/>
+A *short* example could be: <br/>
 
 `>>>`  *import mimetypes*<br/>
 `>>>` <br/>
