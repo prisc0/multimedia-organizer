@@ -18,7 +18,7 @@ FOLDERS = ['Others', 'Music', 'Pictures', 'Documents',  'Documents', 'Videos']
 def init():
     for folder in FOLDERS:
         if not os.path.exists(os.path.join(os.path.expanduser('~'), folder)):
-            os.makedirs(os.path.join(os.path.expanduser('~'), 'Others'))
+            os.makedirs(os.path.join(os.path.expanduser('~'), folder))
 
 # Folder to be sent
 def getfolder(file_to_folder):
