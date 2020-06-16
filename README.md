@@ -7,11 +7,13 @@
 <br/>
 
 ## Description
-&nbsp; Multimedia Organizer allow us to organize our multimedia files in a determined folder, the files are sent to the user root folder, ex. on Windows 'C:\\Users\\USER_PATH\\...' and organize in the corresponding folder (Videos, Music, Documents...) .
+&nbsp; Multimedia Organizer allow us to organize our multimedia files in a determined folder, the files are sent to the user root folder, ex. on Windows *'C:\\Users\\USER_PATH\\...'* and organize in the corresponding folder (Videos, Music, Documents...) .
 <br/>
 <br/>
 ## Common issues
-&nbsp; In this project, one of the common issues is the recognition of the file extension/type and here is where mime-type get in action, instead of use a large pattern in a dictionary or another third-party library to help for to get the file format.   
+&nbsp; In this project, one of the common issues is the recognition of the file extension/type and here is where mime-type get in action, instead of use a large pattern in a dictionary or another third-party library to help to get the format of the file.   
+
+
 
 A *short* example could be: <br/>
 
