@@ -22,10 +22,10 @@ A *short* example could be: <br/>
 `>>>` *mimetypes.guess_type('some_media_file.mp3')*<br/>
 `>>>` *('audio/mpeg', None)*<br/>
 
-<br/>
+<br/><br/>
 ## Requirements
-* python3.x<br/>
-
+* python3.x 
+<br/>
 
 ## Instructions
 
