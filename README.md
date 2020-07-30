@@ -25,7 +25,6 @@ A *short* example could be: <br/>
 <br/><br/>
 ## Requirements
 * python3.x 
-<br/>
 
 ## Instructions
 
