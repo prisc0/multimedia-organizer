@@ -1,7 +1,5 @@
-# os module
+# folders.py #
 import os 
-
-# regex module
 import re 
 
 # We use mimetypes module to extract all available file types,
@@ -36,7 +34,7 @@ file_types = list(file_types)
 file_types.sort()
 
 # final dictionary to track folders
-# ex.
+#
 #    Type   and  folder 
 #    
 #    'audio' :   Music
@@ -44,7 +42,7 @@ file_types.sort()
 #    'video' :   Videos
 #     -
 #     -
-#	  -
+
 folder_to = {file_types[i] : FOLDERS[i] for i in range(0, len(FOLDERS))}
 
 
