@@ -1,6 +1,6 @@
-# Multimedia Organizer
+## Multimedia Organizer ##
 
-# Hi, this is a simple multimedia file organizer's.
+# This is a simple multimedia file organizer's.
 # The program consists in send the commom file types
 # to the user root folder (Pictures, Video, Music...)
 
