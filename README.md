@@ -1,7 +1,7 @@
 # Multimedia organizer 
 
 <br/><br/>
-&nbsp; &nbsp; &nbsp; **Simple media files organizer based on mime-types. **
+&nbsp; &nbsp; &nbsp; **Simple media files organizer based on mime-types.**
 ![INTRO IMAGE](Source/githubimg.gif)
 <br/> 
 <br/>
